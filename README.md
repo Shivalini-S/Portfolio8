@@ -35,7 +35,7 @@ You can view the live website here: [Live Demo](https://cozy-crisp-b269de.netlif
 
 ## 🛠 Technologies Used
 
-- **REACT** – Structure and semantic content
+- **HTML** – Structure and semantic content
 - **CSS3** – Styling, responsive layouts, Flexbox & Grid 
 - **JavaScript (Vanilla JS)** – Interactivity and animations
 - **Font Awesome / Boxicons** – Icons -
